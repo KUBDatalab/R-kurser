@@ -1,8 +1,6 @@
 ## R-kurser fra KUBDatalab
 
-You can use the [editor on GitHub](https://github.com/KUBDatalab/r-kurser/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Introduktionskurser
 Forudsætningskurser for efterfølgende kurser.
@@ -12,24 +10,27 @@ Forudsætningskurser for efterfølgende kurser.
 
 [R for begyndere](https://jekyllrb.com/) Hvor vi tager udgangspunkt i et datasæt, og ser hvor det fører os hen.
 
-API - danmarks statistik
+### Videregående - ikke nødvendigvis avancerede
 
-ggplot - baseret på visualiseringskursus fra RUC
+API - danmarks statistik - forudsætter intro
 
-Markdown
-NLP (baseret på Max kursus?)
+ggplot - baseret på visualiseringskursus fra RUC - forudsætter intro
 
-Programmering - løkker, logiske tests, rekursioner etc.
+Markdown - forudsætter intro
 
-Strengoperationer
+NLP (baseret på Max kursus?) - forudsætter strengoperationer
 
-Modeller
+Programmering - løkker, logiske tests, rekursioner etc. - forudsætter intro
+ 
+Strengoperationer - forudsætter intro
 
-Webhøst/scraping
+Modeller - forudsætter programmering
 
-Datoer
+Webhøst/scraping - forudsætter programmering og strengoperationer
 
-Integration med databaser
+Datoer - forudsætter intro
+
+Integration med databaser - forudsætter intro
 
 
 
