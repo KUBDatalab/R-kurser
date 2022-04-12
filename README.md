@@ -13,7 +13,7 @@ Forudsætningskurser for efterfølgende kurser.
 
 ### Videregående - ikke nødvendigvis avancerede
 
-:heavy_check_mark: API - danmarks statistik - forudsætter intro
+:heavy_check_mark: [API - danmarks statistik](https://kubdatalab.github.io/Danmarks-statistik-api-R/) - forudsætter intro
 
 :x: ggplot - baseret på visualiseringskursus fra RUC - forudsætter intro
 
