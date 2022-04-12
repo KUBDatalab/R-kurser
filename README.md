@@ -6,9 +6,9 @@
 Forudsætningskurser for efterfølgende kurser.
 
 
-[R for absolutte begyndere](https://jekyllrb.com/) Den traditionelle hvor vi starter fra Adam og Eva.
+[R for absolutte begyndere](https://kubdatalab.github.io/beginning-R/) Den traditionelle hvor vi starter fra Adam og Eva.
 
-[R for begyndere](https://jekyllrb.com/) Hvor vi tager udgangspunkt i et datasæt, og ser hvor det fører os hen.
+[R for begyndere](https://kubdatalab.github.io/R-intro/) Hvor vi tager udgangspunkt i et datasæt, og ser hvor det fører os hen.
 
 ### Videregående - ikke nødvendigvis avancerede
 
