@@ -1,37 +1,36 @@
-## R-kurser fra KUBDatalab
+## R-courses from KUBDatalab
 
-:heavy_check_mark: : Udbudt kursus
-:children_crossing: : Under aktiv udvikling
-:x:  : planlagt - siden eksisterer muligvis ikke endnu.
-### Introduktionskurser
-Forudsætningskurser for efterfølgende kurser.
+:heavy_check_mark: : Active course - find it in our calendar and book a seat.
+:children_crossing: : We are working on it (promise!) but it is not ready yeat.
+:x:  : We would like to make this course.
+### Introductory courses
+Prerequisites for all other courses.
 
+:heavy_check_mark: [R for absolute beginners](https://kubdatalab.github.io/beginning-R/) The traditional introduction where we start from zero.
 
-:heavy_check_mark: [R for absolutte begyndere](https://kubdatalab.github.io/beginning-R/) Den traditionelle hvor vi starter fra Adam og Eva.
-
-:children_crossing: [R for begyndere](https://kubdatalab.github.io/R-intro/) Hvor vi tager udgangspunkt i et datasæt, og ser hvor det fører os hen.
+:children_crossing: [R for begyndere](https://kubdatalab.github.io/R-intro/) The alternative approach, where we look at a dataset and improvise from that.
 
 ### Videregående - ikke nødvendigvis avancerede
 
 :heavy_check_mark: [API - danmarks statistik](https://kubdatalab.github.io/Danmarks-statistik-api-R/) - forudsætter intro
 
-:x: ggplot - baseret på visualiseringskursus fra RUC - forudsætter intro https://kubdatalab.github.io/R-visualisation/
+:x: [Visualisation](https://kubdatalab.github.io/R-visualisation/) Or: ggplot2. baseret på visualiseringskursus fra RUC - forudsætter intro 
 
-:x: Markdown - forudsætter intro https://kubdatalab.github.io/R-markdown/
+:x: [Markdown](https://kubdatalab.github.io/R-markdown/) - forudsætter intro 
 
-:x: NLP (baseret på Max kursus?) - forudsætter strengoperationer https://kubdatalab.github.io/R-nlp/
+:x: [NLP](https://kubdatalab.github.io/R-nlp/) (baseret på Max kursus?) - forudsætter strengoperationer 
 
-:x: Programmering - løkker, logiske tests, rekursioner etc. - forudsætter intro https://kubdatalab.github.io/R-programming/
+:x: [Programming R](https://kubdatalab.github.io/R-programming/) - løkker, logiske tests, rekursioner etc. - forudsætter intro 
  
-:x: Strengoperationer - forudsætter intro https://kubdatalab.github.io/R-strings/
+:x: [Strings and text in R](https://kubdatalab.github.io/R-strings/) - forudsætter intro 
 
-:x: Modeller - forudsætter programmering https://kubdatalab.github.io/R-models/
+:x: [Statistical models in R](https://kubdatalab.github.io/R-models/) - forudsætter programmering 
 
-:x: Webhøst/scraping - forudsætter programmering og strengoperationer https://kubdatalab.github.io/R-webscraping/
+:x: [Harvesting the web](https://kubdatalab.github.io/R-webscraping/) Webhøst/scraping - forudsætter programmering og strengoperationer 
 
-:x: Datoer - forudsætter intro https://kubdatalab.github.io/R-time-and-dates/
+:x: [Times and dates](https://kubdatalab.github.io/R-time-and-dates/) Datoer - forudsætter intro 
 
-:x: Integration med databaser - forudsætter intro https://kubdatalab.github.io/R-databases/
+:x: [R and databases](https://kubdatalab.github.io/R-databases/) - forudsætter intro 
 
 
 
