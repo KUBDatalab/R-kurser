@@ -15,23 +15,23 @@ Forudsætningskurser for efterfølgende kurser.
 
 :heavy_check_mark: [API - danmarks statistik](https://kubdatalab.github.io/Danmarks-statistik-api-R/) - forudsætter intro
 
-:x: ggplot - baseret på visualiseringskursus fra RUC - forudsætter intro
+:x: ggplot - baseret på visualiseringskursus fra RUC - forudsætter intro https://kubdatalab.github.io/R-visualisation/
 
-:x: Markdown - forudsætter intro
+:x: Markdown - forudsætter intro https://kubdatalab.github.io/R-markdown/
 
-:x: NLP (baseret på Max kursus?) - forudsætter strengoperationer
+:x: NLP (baseret på Max kursus?) - forudsætter strengoperationer https://kubdatalab.github.io/R-nlp/
 
-:x: Programmering - løkker, logiske tests, rekursioner etc. - forudsætter intro
+:x: Programmering - løkker, logiske tests, rekursioner etc. - forudsætter intro https://kubdatalab.github.io/R-programming/
  
-:x: Strengoperationer - forudsætter intro
+:x: Strengoperationer - forudsætter intro https://kubdatalab.github.io/R-strings/
 
-:x: Modeller - forudsætter programmering
+:x: Modeller - forudsætter programmering https://kubdatalab.github.io/R-models/
 
-:x: Webhøst/scraping - forudsætter programmering og strengoperationer
+:x: Webhøst/scraping - forudsætter programmering og strengoperationer https://kubdatalab.github.io/R-webscraping/
 
-:x: Datoer - forudsætter intro
+:x: Datoer - forudsætter intro https://kubdatalab.github.io/R-time-and-dates/
 
-:x: Integration med databaser - forudsætter intro
+:x: Integration med databaser - forudsætter intro https://kubdatalab.github.io/R-databases/
 
 
 
